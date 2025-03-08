@@ -88,3 +88,9 @@ O multi-thread pode ser **mais lento devido ao GIL do Python** e ao **overhead d
 Este projeto ajuda a entender como **multi-threading pode nao ser sempre mais rapido** no Python, especialmente em tarefas **CPU-bound** (como contagem de palavras). A experimentacao pode levar a uma abordagem mais eficiente dependendo do caso de uso.
 
 🚀 **Divirta-se testando e otimizando!**
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por [João](https://github.com/joaopalmasbr) e .[Peralta](https://github.com/Emmanuelperalta8)
