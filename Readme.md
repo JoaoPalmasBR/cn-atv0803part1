@@ -1,5 +1,11 @@
 # Comparacao de Desempenho: Processamento de Arquivo com Threads
 
+## 👨‍💻 Autor
+
+Desenvolvido por [João](https://github.com/joaopalmasbr) e .[Peralta](https://github.com/Emmanuelperalta8)
+
+---
+
 Este projeto implementa duas abordagens para processar um arquivo linha por linha e comparar o desempenho entre uma execucao **single-thread** e **multi-thread**.
 
 📌 **Arquivos do projeto**:
@@ -91,6 +97,3 @@ Este projeto ajuda a entender como **multi-threading pode nao ser sempre mais ra
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por [João](https://github.com/joaopalmasbr) e .[Peralta](https://github.com/Emmanuelperalta8)
